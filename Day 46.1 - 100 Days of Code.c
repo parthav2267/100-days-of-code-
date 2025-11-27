@@ -1,6 +1,6 @@
 // Day 46.1 - 100 Days of Code
 //Remove all vowels from a string.
-// tanaysah 
+// Parthav Shukla
 
 #include <stdio.h>
 #include <string.h>
