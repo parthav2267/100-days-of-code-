@@ -1,6 +1,5 @@
 //day100- 100 days of code
 //Use pointer to struct to modify and display data using -> operato
-//tanaysah
 
 #include <stdio.h>
 struct Student {
